@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    background-image: url(bg.jpg);
+    background-size: 1900px;
+}
+
+.mario{
+    width: 55px;
+    position: absolute;
+    top: 744px;
+    left: 270px;
+    transition: 0.5s;
+}
+
+.pipe{
+    width: 100px;
+    position: absolute;
+    top: 826px;
+    left: 250px;
+}
